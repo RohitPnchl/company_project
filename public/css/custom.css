@@ -1,0 +1,57 @@
+.pull-right {
+    text-align: right;
+}
+
+.float-center {
+    text-align: center;
+}
+
+.login .card {
+    padding: 10px;
+    /* box-shadow: 3px 10px 7px #888888; */
+    /* box-shadow: 2px 7px 7px #888888; */
+    margin: 25px 0 25px 0;
+}
+
+.reset .card {
+  padding: 10px;
+    margin: 25px 0 25px 0;
+}
+
+.login .card-header {
+    padding-bottom: 0px;
+}
+
+.login .card-body {
+    padding-top: 0px;
+}
+
+.login .forgot-password {
+    text-decoration: underline;
+}
+
+.return-login {
+    text-decoration: underline !important;
+}
+
+.cover-image {
+    background-image: url(/images/cover.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.background {
+    background-color: #ffffff2e;
+    /* background-color: #333333; */
+}
+
+.image-upload > input {
+    visibility:hidden;
+    width:0;
+    height:0
+}
+
+.preview-product-image img {
+    margin-left: 5px;
+}
